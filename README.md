@@ -1,3 +1,4 @@
+# Date : 
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -17,11 +18,18 @@ Visual components and Python
 
 
 ## Experiment:
+![deepika_3095](https://github.com/deepika3095/Open-Jacson-Networks/assets/151625159/9875e508-8f7a-4a46-9882-d9527008d4bd)
 
 
-## Program
+## Program :
+
+![deepika_3095 (2)](https://github.com/deepika3095/Open-Jacson-Networks/assets/151625159/f90202f5-6be5-4292-b24a-16f0d52a6c21)
+![deepika_3095 (3)](https://github.com/deepika3095/Open-Jacson-Networks/assets/151625159/cec2f26c-808c-4627-946a-a4c6af58da5e)
 
 
-## Output
+## Output :
+![deepika_3095 (2)](https://github.com/deepika3095/Open-Jacson-Networks/assets/151625159/402bd22b-bc49-427d-860a-341241bf8e54)
 
-## Result
+
+## Result :
+The average number of material in the system and in the conveyor and waiting time are successfully found.
